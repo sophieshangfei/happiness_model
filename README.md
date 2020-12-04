@@ -1,1 +1,1 @@
-Fitted Happiness model (sort of) using sample code by Ruteldge Lab. OG paper by Rutledge et al, (2014) https://www.pnas.org/content/111/33/12252.short
+My humble attempt to fit the Happiness model using sample code provided by Ruteldge Lab. Ultimate goal is to write my own python code to fit this model. OG paper by Rutledge et al, (2014) https://www.pnas.org/content/111/33/12252.short
